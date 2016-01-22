@@ -1,0 +1,18 @@
+https://en.wikipedia.org/wiki/Clustered_file_system
+What we would be trying to go for here
+
+http://forum.kodi.tv/showthread.php?tid=118986
+Users inquiring about this feature being added into the open source program Kodi. It does not appear to havwe been implemented though.
+
+https://forums.plex.tv/discussion/178320/plex-remote-transcoder-a-distributed-transcoding-backend-for-plex
+https://github.com/wnielson/Plex-Remote-Transcoder
+Seems to be a recent project that is attempting to do what we're considering. At the moment it does not work,
+but it still appears to be in development.
+
+It does not appear that this project concept the way I imagine it has been implemented in any major project. There's so little information on
+it that it would be tough to give an estimate on the difficulty, although I believe it would still be doable.
+
+http://www.codeproject.com/Articles/318290/How-to-Implement-Load-Balancing-to-Distribute-Work
+An example of load balancing over a network in Java
+Status API Training Shop Blog About Pricing
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help
